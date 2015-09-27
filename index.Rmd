@@ -63,4 +63,4 @@ plot(Navacerrada$Date,Navacerrada$PmA, type = "h",main = "Monthly Precipitation 
  
 # Thank you for your attention!
 
-![width]("Image.PNG")
+![width](https://github.com/DanielCabello/DanielCabello.github.io/blob/master/Image.PNG)
