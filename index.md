@@ -41,4 +41,4 @@ Represent visually anomalies of temperature and precipitation at Navacerrada (Gu
  
 # Thank you for your attention!
 
-![width](Image.png)
+![width]("Image.PNG")
